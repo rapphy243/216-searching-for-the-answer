@@ -7,7 +7,7 @@
 #include <unordered_set>
 #include <vector>
 
-class index {
+class Index {
 private:
     std::map<std::string, std::vector<int>> index_map;
 
